@@ -68,19 +68,10 @@ TensorFlow / Keras
 Streamlit
 NumPy & Pillow
 Transfer Learning (MobileNetV2)
-🔹 Screenshots
-
-Upload Page:
-
-
-Prediction Result:
-
-
-Replace placeholders with your actual screenshots.
 
 🔹 Author
 
 Vinisha Baskar 💚
 
 GitHub: Vinisha-B
-Email: your-email@example.com
+Email: vinishabaskar23@gmail.com
